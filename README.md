@@ -16,12 +16,12 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Screenshot]![](./Screenshot8.jpg)
   - [Screenshot]![](./Screenshot9.jpg)
   - [Links](https://github.com/H-wq-prog/clipboard-landing-page-master.git)
-- [My process](#my-process)
+- [My process](https://h-wq-prog.github.io/clipboard-landing-page-master/)
 - [Built with](frontend mentor)
 
 
-- Solution URL:(https://github.com/H-wq-prog/testimonials-grid-section.git)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL:(https://github.com/H-wq-prog/clipboard-landing-page-master.git)
+- Live Site URL:(https://h-wq-prog.github.io/clipboard-landing-page-master/)
 
 
 ### Built with
