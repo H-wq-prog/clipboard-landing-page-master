@@ -15,7 +15,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Screenshot]![](./Screenshot7.jpg)
   - [Screenshot]![](./Screenshot8.jpg)
   - [Screenshot]![](./Screenshot9.jpg)
-  - [Links](https://github.com/H-wq-prog/testimonials-grid-section.git)
+  - [Links](https://github.com/H-wq-prog/clipboard-landing-page-master.git)
 - [My process](#my-process)
 - [Built with](frontend mentor)
 
