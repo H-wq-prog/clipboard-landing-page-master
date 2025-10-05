@@ -244,7 +244,7 @@ footer .icon-sco i{
 
 /* modil edit */
 
-@media(max-width:720px){
+@media(max-width:730px){
 /* container mobel edit */
 .container::before{
     background-image: url(imags/bg-header-mobile.png);
@@ -347,3 +347,4 @@ width: 55%;
 }
 
 }
+
